@@ -27,6 +27,7 @@
 
 ## *pic in terminal & useage*
 
+
 ###### read nformation in from .txt file before use
 
 
