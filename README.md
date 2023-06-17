@@ -26,9 +26,11 @@
 ###### * IDE: Visual Studio or any IDE of your choice
 
 ## *pic in terminal & useage*
+![shoes](https://github.com/CrypticDG/Shoestore/assets/132646907/854267d5-8deb-41d9-a688-1db67999e0e1)
 
 
-###### read nformation in from .txt file before use
+
+###### read information in from .txt file before use
 
 
 ## * credit hyp dev bootcamp task
