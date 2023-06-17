@@ -19,7 +19,7 @@
 ###### hq - View shoe with highest quantity.
 ###### e  - Exit.
 
-## *Installation requirments*
+## *Installation requirements*
 
 ###### * py -m pip install python
 ###### * py -m pip install tabulate
