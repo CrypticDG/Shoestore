@@ -61,7 +61,7 @@ def read_shoes_data():
                 shoe_list.append(shoe)
         print("Inventory data has been read from txt file")
     except FileNotFoundError:
-            print("The File you are tyring to read does not exist.")
+            print("The File you are trying to read does not exist.")
 
 def capture_shoes():
     
@@ -75,7 +75,7 @@ def capture_shoes():
     code = input("Enter the shoe code: ")
     product = input("Enter the shoe name: ")
     cost = input("Enter the cost of the shoe: ")
-    quantity = input("Enter the quantity of the shoes vailable: ")
+    quantity = input("Enter the quantity of the shoes available: ")
     shoe = Shoe(country, code, product, cost, quantity)
     shoe_list.append(shoe)
     print("Shoe data has been captured.")
